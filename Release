@@ -1,0 +1,8 @@
+Origin: Ringed Repo
+Label: R3vanchist_
+Suite: stable
+Version: 1.0
+Codename: Ringed Repo
+Architectures: iphoneos-arm
+Components: main
+Description: Repository for the hosting of my theme, Ringed. By /u/R3vanchist_
