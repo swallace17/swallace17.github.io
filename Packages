@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Samuel Wallace <R3vanchist@gmail.com>
 Depends: winterboard
 Filename: Ringed_1.0.deb
-Size: 15256006
-MD5sum: 840b704c89dfe778f80df5f4d72bd0e8
-SHA1: 62f26f6a4cb0f1e0048f42494483b9f53467411a
-SHA256: 97b4c056df7fa68f2244527e031074cebd6dcfb0fd194bab067f810be5b47652
+Size: 15256048
+MD5sum: 0a78625edf67eb535a2a5c9ed28ba416
+SHA1: 6b983eadf289cf7794f3abc8567dead74c299d36
+SHA256: e0b9a2d00d7c5a8e72ccadf074e08b6768ba62d0c10bfdc6c2483ff80362fd36
 Section: Themes
 Homepage: NA
 Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS.
