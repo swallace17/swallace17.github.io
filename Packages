@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Samuel Wallace <R3vanchist@gmail.com>
 Depends: winterboard
 Filename: Ringed.deb
-Size: 15258728
-MD5sum: f8e7c8d92d268d7e7d00dd659f1d8806
-SHA1: a7dc6855685feba918e606df897fdbae59946711
-SHA256: f91fbc55093c36f421b8ed19cfedc74095ba359d01dd577f8627713828067fa6
+Size: 15255752
+MD5sum: 8739d3e31faf46680cb97d902f498a93
+SHA1: 7959302167f92455c2f5fe70840caaebc59cd527
+SHA256: b7fd06cca08caebee32fdb1faec2a0bb5de6f102f343fb9fb068375d93f54b1e
 Section: Themes
 Homepage: NA
 Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS. Change Log: 1.0- Initial release 1.0.1- Fixes bug with Dynamic Theme Installation Postinst script causing iPhoneHD Calendar ‘plist’ and Icon Masks to be installed on iPadHD models. 1.0.2- Fix for iPad Mini’s. You’re Welcome eh
