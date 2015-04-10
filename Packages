@@ -1,16 +1,16 @@
 Package: com.swallace.Ringed
-Version: 1.0.2-3
+Version: 1.0.3-1
 Architecture: iphoneos-arm
 Maintainer: Samuel Wallace <R3vanchist@gmail.com>
-Depends: winterboard
+Depends: winterboard, com.idd.iconomatic
 Filename: Ringed.deb
-Size: 15255752
-MD5sum: 8739d3e31faf46680cb97d902f498a93
-SHA1: 7959302167f92455c2f5fe70840caaebc59cd527
-SHA256: b7fd06cca08caebee32fdb1faec2a0bb5de6f102f343fb9fb068375d93f54b1e
+Size: 15276788
+MD5sum: c00ed92e3f7d40ae1152b58d25525b08
+SHA1: 925c3191ab40d37f846f7fb1d62abc3c7470a5d0
+SHA256: 52db72e34b1ae0ee3dd2dd3cc01552b0c83c9c77e9f4d6e5e97576c7aee0d344
 Section: Themes
 Homepage: NA
-Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS. Change Log: 1.0- Initial release 1.0.1- Fixes bug with Dynamic Theme Installation Postinst script causing iPhoneHD Calendar ‘plist’ and Icon Masks to be installed on iPadHD models. 1.0.2- Fix for iPad Mini’s. You’re Welcome eh
+Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS. Change Log: 1.0- Initial release 1.0.1- Fixes bug with Dynamic Theme Installation Postinst script causing iPhoneHD Calendar ‘plist’ and Icon Masks to be installed on iPadHD models. 1.0.2- Fix for iPad Mini’s. 1.0.3- IconOmatic Overlay and Activator support
 Author: Samuel Wallace <R3vanchist@gmail.com>
 Name: Ringed
 
