@@ -1,16 +1,16 @@
 Package: com.swallace.Ringed
-Version: 1.0.3-1
+Version: 1.0.4-1
 Architecture: iphoneos-arm
 Maintainer: Samuel Wallace <R3vanchist@gmail.com>
 Depends: winterboard, com.idd.iconomatic
 Filename: Ringed.deb
-Size: 15276788
-MD5sum: c00ed92e3f7d40ae1152b58d25525b08
-SHA1: 925c3191ab40d37f846f7fb1d62abc3c7470a5d0
-SHA256: 52db72e34b1ae0ee3dd2dd3cc01552b0c83c9c77e9f4d6e5e97576c7aee0d344
+Size: 19344208
+MD5sum: 31997982ddc7979630a57e44c290f7d1
+SHA1: 985fa28f682ce389be90c54f94cf8dffd4f0fe99
+SHA256: bf2d2dedc8ab9daa41237ae325eddcc9a39f741ab29c2aa00b464e232479be2a
 Section: Themes
 Homepage: NA
-Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS. Change Log: 1.0- Initial release 1.0.1- Fixes bug with Dynamic Theme Installation Postinst script causing iPhoneHD Calendar ‘plist’ and Icon Masks to be installed on iPadHD models. 1.0.2- Fix for iPad Mini’s. 1.0.3- IconOmatic Overlay and Activator support
+Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS. Change Log: 1.0- Initial release 1.0.1- Fixes bug with Dynamic Theme Installation Postinst script causing iPhoneHD Calendar ‘plist’ and Icon Masks to be installed on iPadHD models. 1.0.2- Fix for iPad Mini’s. 1.0.3- IconOmatic Overlay and Activator support 1.0.4- Added more icons. Finilized Activator Themeing support.
 Author: Samuel Wallace <R3vanchist@gmail.com>
 Name: Ringed
 
