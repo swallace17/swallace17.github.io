@@ -4,13 +4,13 @@ Architecture: iphoneos-arm
 Maintainer: Samuel Wallace <R3vanchist@gmail.com>
 Depends: winterboard, com.idd.iconomatic
 Filename: Ringed.deb
-Size: 19344288
-MD5sum: 588e63d01a225180e78c1710dd64b111
-SHA1: d3c7b8ce46c5c26aef8a400100465e01e6530e3f
-SHA256: 879d813dbb79f747f9654ee8114330776efc446aa214641d3178351b0bb6f12d
+Size: 20639556
+MD5sum: 963fd48cb1fbe73a960cd51848b3a3a2
+SHA1: 081d54e0f8e446685a28f2d6d82acecb46df7965
+SHA256: 70835e8293aa45c15e04694b19e9deddbf7cf4d21f7629cb21a26a268a8cc1da
 Section: Themes
 Homepage: NA
-Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS. Change Log: 1.0- Initial release 1.0.1- Fixes bug with Dynamic Theme Installation Postinst script causing iPhoneHD Calendar ‘plist’ and Icon Masks to be installed on iPadHD models. 1.0.2- Fix for iPad Mini’s. 1.0.3- IconOmatic Overlay and Activator support 1.0.4- Added more icons. Finilized Activator Themeing support.
+Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS. Change Log: 1.0- Initial release 1.0.1- Fixes bug with Dynamic Theme Installation Postinst script causing iPhoneHD Calendar ‘plist’ and Icon Masks to be installed on iPadHD models. 1.0.2- Fix for iPad Mini’s. 1.0.3- IconOmatic Overlay and Activator support 1.0.4- Added more icons. Finilized Activator Themeing support. 1.0.5- More Icons. Maybe Activator Finally works.
 Author: Samuel Wallace <R3vanchist@gmail.com>
 Name: Ringed
 
