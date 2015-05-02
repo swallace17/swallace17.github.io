@@ -1,16 +1,16 @@
 Package: com.swallace.Ringed
-Version: 1.0.7-1
+Version: 1.0.8-1
 Architecture: iphoneos-arm
 Maintainer: Samuel Wallace <R3vanchist@gmail.com>
 Depends: winterboard, com.idd.iconomatic
 Filename: Ringed.deb
-Size: 20685146
-MD5sum: 9b64642f276c25e2bedafa0ea6fa4cd4
-SHA1: 03dfe27c6ee6e3fd33db856979d0500506456890
-SHA256: 0e1f0a483f4aa1aab2c400cb6f3f30c164f6defd4edde2e76e18469eb07e1132
+Size: 20824692
+MD5sum: cc5d79904dda2b6c8fa5c364e6fe01b1
+SHA1: 953a13468129385d7d4f52c45502c4029947f107
+SHA256: a1c8bcd6ecd8de88621a926b3dc35e231b8209ca136fe98b1a2b304d12fc4b38
 Section: Themes
 Homepage: NA
-Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS. Change Log: 1.0- Initial release 1.0.1- Fixes bug with Dynamic Theme Installation Postinst script causing iPhoneHD Calendar ‘plist’ and Icon Masks to be installed on iPadHD models. 1.0.2- Fix for iPad Mini’s. 1.0.3- IconOmatic Overlay and Activator support 1.0.4- Added more icons. Finilized Activator Themeing support. 1.0.5- More Icons. Maybe Activator Finally works. 1.0.6- Fixed issue with iCloud and Family sharing not themeing in Preferences.app 1.0.7- Fixed dpkg error in postinst script
+Description: Ringed- A theme inspired by by the design style of OSX. The circular icons of Ringed have been individually designed with a cohesive style of gradients radiating outward from the center of each icon. Ringed aims to preserve the look and feel of the "Stock" iOS by holding to many elements and color choices already in the official icons, while prviding a unified style throughout iOS. Change Log: 1.0- Initial release 1.0.1- Fixes bug with Dynamic Theme Installation Postinst script causing iPhoneHD Calendar ‘plist’ and Icon Masks to be installed on iPadHD models. 1.0.2- Fix for iPad Mini’s. 1.0.3- IconOmatic Overlay and maybe Activator support 1.0.4- Added more icons. Hopefully Activator Themeing support. 1.0.5- More Icons. Activator Finally works. 1.0.6- Fixed issue with Find My iPhone and Family sharing not themeing in Preferences.app 1.0.7- Fixed dpkg error in postinst script 1.0.8- Begins Small-Size Icon Overhall
 Author: Samuel Wallace <R3vanchist@gmail.com>
 Name: Ringed
 
